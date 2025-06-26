@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documentos\\GitHub\\SEMESTRE3\\PROYECTO_I\\PROYECTO_I.csproj": {}
+    "d:\\Documentos\\GitHub\\SEMESTRE3\\PROYECTO_I\\PROYECTO_I.csproj": {}
   },
   "projects": {
-    "D:\\Documentos\\GitHub\\SEMESTRE3\\PROYECTO_I\\PROYECTO_I.csproj": {
+    "d:\\Documentos\\GitHub\\SEMESTRE3\\PROYECTO_I\\PROYECTO_I.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos\\GitHub\\SEMESTRE3\\PROYECTO_I\\PROYECTO_I.csproj",
+        "projectUniqueName": "d:\\Documentos\\GitHub\\SEMESTRE3\\PROYECTO_I\\PROYECTO_I.csproj",
         "projectName": "PROYECTO_I",
-        "projectPath": "D:\\Documentos\\GitHub\\SEMESTRE3\\PROYECTO_I\\PROYECTO_I.csproj",
+        "projectPath": "d:\\Documentos\\GitHub\\SEMESTRE3\\PROYECTO_I\\PROYECTO_I.csproj",
         "packagesPath": "C:\\Users\\juanz\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos\\GitHub\\SEMESTRE3\\PROYECTO_I\\obj\\",
+        "outputPath": "d:\\Documentos\\GitHub\\SEMESTRE3\\PROYECTO_I\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\juanz\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -50,7 +50,7 @@ class Program
         // Mostramos la información de cada contacto con un console.writeline
         foreach (var contacto in agenda)
         {
-            Console.WriteLine("\n--- REGISTRO DE AGENDA UEA ------");
+            Console.WriteLine("\n--- AGENDA TELEFÓNICA UEA ------");
             Console.WriteLine($"Nombre: {contacto.Nombre}");
             Console.WriteLine($"Correo: {contacto.Correo}");
             Console.WriteLine($"Dirección: {contacto.Direccion}");
